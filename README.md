@@ -1,17 +1,21 @@
-### Hi there 👋
-
-I use Arch BTW... 
-<!--
-**ubombi/ubombi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+                                                                     ???????     
+                                                                    ??:::::::??   
+                      000000000                                   ??:::::::::::?  
+                    00:::::::::00                                ?:::::????:::::? 
+                  00:::::::::::::00                              ?::::?    ?::::? 
+                 0:::::::000:::::::0                             ?::::?     ?::::?
+   ooooooooooo   0::::::0   0::::::0                             ??????     ?::::?
+ oo:::::::::::oo 0:::::0     0:::::0                                       ?::::? 
+o:::::::::::::::o0:::::0     0:::::0                                      ?::::?  
+o:::::ooooo:::::o0:::::0 000 0:::::0                                     ?::::?   
+o::::o     o::::o0:::::0 000 0:::::0                                    ?::::?    
+o::::o     o::::o0:::::0     0:::::0                                   ?::::?     
+o::::o     o::::o0:::::0     0:::::0                                   ?::::?     
+o::::o     o::::o0::::::0   0::::::0                                   ??::??     
+o:::::ooooo:::::o0:::::::000:::::::0                                    ????      
+o:::::::::::::::o 00:::::::::::::00       ......  ......  ......                  
+ oo:::::::::::oo    00:::::::::00         .::::.  .::::.  .::::.        ???       
+   ooooooooooo        000000000           ......  ......  ......       ??:??      
+                                                                        ???       ... BTW I use Arch ... 
+```
