@@ -20,7 +20,13 @@ o:::::::::::::::o 00:::::::::::::00       ......  ......  ......
                                                                         ???       ... BTW I use Arch ... 
 ```
 
-Oversimplified:
-* [Kafka basics](https://vitalii.kozlovskyi.dev/posts/kafka-oversimplified/)
-* [Postgres WAL](https://vitalii.kozlovskyi.dev/posts/wtf-is-wal/)
-* ...
+#### Talks:  (animated; use in "present" mode.)
+- [**GO Memory model**](https://docs.google.com/presentation/d/1W_eq_amw_bIh0UxPmW2RsEDZwM7l_RTaA9MDjhzMGAw/edit?usp=sharing)   
+- Cassandra: [**Why you should read the manual** *ENG*](https://docs.google.com/presentation/d/1CALuIgPq5ZyaXlElw8vUdhHC4rW4Bp4aR-g7qBSDpY0/edit?usp=sharing)
+ 
+#### Oversimplified _(blog posts)_:
+- [Kafka basics](https://vitalii.kozlovskyi.dev/posts/kafka-oversimplified/)
+- [Postgres WAL](https://vitalii.kozlovskyi.dev/posts/wtf-is-wal/)
+- ...
+
+
