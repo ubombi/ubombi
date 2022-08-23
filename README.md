@@ -21,8 +21,9 @@ o:::::::::::::::o 00:::::::::::::00       ......  ......  ......
 ```
 
 #### Talks:  (animated; use in "present" mode.)
+- [**WAL / Postgres Logical Decoding**](https://docs.google.com/presentation/d/1ZTR07ERmsQuQFUo8rvvO4rs2BTKztQ7J9uxZPLeOGJA/edit?usp=sharing)
 - [**GO Memory model**](https://docs.google.com/presentation/d/1W_eq_amw_bIh0UxPmW2RsEDZwM7l_RTaA9MDjhzMGAw/edit?usp=sharing)   
-- Cassandra: [**Why you should read the manual** *ENG*](https://docs.google.com/presentation/d/1CALuIgPq5ZyaXlElw8vUdhHC4rW4Bp4aR-g7qBSDpY0/edit?usp=sharing)
+- [**Cassandra. Why you should read the manual** *ENG*](https://docs.google.com/presentation/d/1CALuIgPq5ZyaXlElw8vUdhHC4rW4Bp4aR-g7qBSDpY0/edit?usp=sharing)
  
 #### Oversimplified _(blog posts)_:
 - [Kafka basics](https://vitalii.kozlovskyi.dev/posts/kafka-oversimplified/)
